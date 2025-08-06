@@ -11,6 +11,7 @@ public class ChatController {
 
     private final ChatClient chatClient;
 
+    //using Default chat client builder
     public ChatController(ChatClient.Builder builder){
         chatClient = builder.build();
     }
