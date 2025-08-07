@@ -11,7 +11,7 @@ The project demonstrates how to:
 ## Features
 
 - Chat Assistant powered by OpenAI GPT models.
-- 🛠Spring AI integration for seamless prompt handling.
+- Spring AI integration for seamless prompt handling.
 - System message injection to provide contextual awareness to the model.
 
 ## Tech Stack
